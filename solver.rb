@@ -6,4 +6,10 @@ class Solver
     puts result
     result
   end
+
+  def reverse(word)
+    result = word.reverse
+    puts result
+    result
+  end
 end
